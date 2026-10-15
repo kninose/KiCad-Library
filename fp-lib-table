@@ -4,4 +4,5 @@
   (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MicroComputer/RP2040.pretty")(options "")(descr ""))
   (lib (name "Tactile_Switch")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Switch/Tactile_Switch.pretty")(options "")(descr ""))
   (lib (name "Cherry_MX")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Switch/Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "Kailh_Choc")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Switch/Kailh_Choc.pretty")(options "")(descr ""))
 )
