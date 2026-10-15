@@ -1,0 +1,170 @@
+(footprint "Tactile_Switch_6mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fb3ccd0b-d08e-4a46-a674-1720adf8199c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Tactile_Switch_6mm"
+		(at 0 4.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fa8a0199-d88f-464d-b046-a83cd4419c9f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d647d8a-60d0-41d4-9f4a-f6ac1481ee2c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11dee2fa-53f7-4168-adc0-6d91f162d152")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3 -3)
+		(end 3 -3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "c7b23e85-fc58-4560-a3c9-663cd3f1c568")
+	)
+	(fp_line
+		(start -3 3)
+		(end -3 -3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5bd4ee96-e654-4209-b05f-1af4ab463b93")
+	)
+	(fp_line
+		(start 3 -3)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0f8ca3df-237c-4059-b6bf-7c7f54e30747")
+	)
+	(fp_line
+		(start 3 3)
+		(end -3 3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "da1a87f6-fa31-4c4b-9194-a18e2f9e2d76")
+	)
+	(fp_line
+		(start -4.75 -3.75)
+		(end -4.75 3.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "c227aa0f-17fd-4e99-afe3-0a904db35a6e")
+	)
+	(fp_line
+		(start -4.75 -3.75)
+		(end 4.75 -3.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "342704e8-8155-4b95-9aea-d57b96c91cf8")
+	)
+	(fp_line
+		(start -4.75 3.75)
+		(end 4.75 3.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "4d667e93-b941-4a62-8f77-d7503b46f597")
+	)
+	(fp_line
+		(start 4.75 -3.75)
+		(end 4.75 3.75)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "67ac3653-f1d3-4cde-a3cb-27a27b38570f")
+	)
+	(pad "1" thru_hole circle
+		(at -3.25 -2.25)
+		(size 2 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "67493a24-9c1d-4296-b1dc-e2189285cc40")
+	)
+	(pad "1" thru_hole circle
+		(at 3.25 -2.25)
+		(size 2 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e168f3d7-c63a-4d5b-a960-0ea81046b618")
+	)
+	(pad "2" thru_hole circle
+		(at -3.25 2.25)
+		(size 2 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3870a279-b701-4caf-bbff-1dc41627ccbd")
+	)
+	(pad "2" thru_hole circle
+		(at 3.25 2.25)
+		(size 2 2)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "203965cb-41eb-4954-8798-c54736f26e7a")
+	)
+	(embedded_fonts no)
+)
