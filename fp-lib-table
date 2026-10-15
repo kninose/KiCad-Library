@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "Screw")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Hole/Screw.pretty")(options "")(descr ""))
+  (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MicroComputer/RP2040.pretty")(options "")(descr ""))
 )
