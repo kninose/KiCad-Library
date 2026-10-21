@@ -1,1 +1,1 @@
-# KiCad_Library
+# KiCad-Library
