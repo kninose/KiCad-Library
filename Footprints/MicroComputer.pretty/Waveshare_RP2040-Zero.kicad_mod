@@ -378,7 +378,7 @@
 	(zone
 		(net 0)
 		(net_name "")
-		(layer "F.Cu")
+		(layers "F.Cu" "B.Cu")
 		(uuid "38072024-f994-4d07-b139-c2b84c3a5e7a")
 		(hatch full 0.5)
 		(connect_pads
