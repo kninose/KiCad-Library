@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -10.5 0)
+		(at 0 -8.65 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "ace8dc24-e798-4648-89ea-a67f1a28dbf6")
@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "Cherry_MX_HotSwap_1U"
-		(at 0 10.5 0)
+		(at 0 8.65 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "7b1825c1-f888-45b4-a41b-a9bf554262a4")
@@ -55,8 +55,8 @@
 	)
 	(attr smd)
 	(fp_line
-		(start -9.525 -9.525)
-		(end -9.525 9.525)
+		(start -9.5 -9.5)
+		(end -9.5 9.5)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -65,8 +65,8 @@
 		(uuid "f3f13621-a361-4722-927d-87de7a437ba9")
 	)
 	(fp_line
-		(start -9.525 -9.525)
-		(end 9.525 -9.525)
+		(start -9.5 -9.5)
+		(end 9.5 -9.5)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -75,8 +75,8 @@
 		(uuid "26ba3167-fc3f-4a20-a95e-b015adfef057")
 	)
 	(fp_line
-		(start 9.525 9.525)
-		(end -9.525 9.525)
+		(start -9.5 9.5)
+		(end 9.5 9.5)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -85,8 +85,8 @@
 		(uuid "5ac0a93f-7c8f-4812-80db-2ae8e452cb53")
 	)
 	(fp_line
-		(start 9.525 9.525)
-		(end 9.525 -9.525)
+		(start 9.5 -9.5)
+		(end 9.5 9.5)
 		(stroke
 			(width 0.15)
 			(type solid)

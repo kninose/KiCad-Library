@@ -250,18 +250,8 @@
 		(uuid "a29da824-96cd-459a-a1fb-0fe9dcf677ae")
 	)
 	(fp_line
-		(start -9.525 -9.525)
-		(end 9.525 -9.525)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "05425d5d-1612-4f3a-85d3-90bb236a20db")
-	)
-	(fp_line
-		(start -9.525 9.525)
-		(end -9.525 -9.525)
+		(start -9.5 -9.5)
+		(end -9.5 9.5)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -270,8 +260,18 @@
 		(uuid "7aa21d8b-bc84-42fb-b001-0404179d536d")
 	)
 	(fp_line
-		(start -9.525 9.525)
-		(end 9.525 9.525)
+		(start -9.5 -9.5)
+		(end 9.5 -9.5)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "05425d5d-1612-4f3a-85d3-90bb236a20db")
+	)
+	(fp_line
+		(start -9.5 9.5)
+		(end 9.5 9.5)
 		(stroke
 			(width 0.15)
 			(type solid)
@@ -280,8 +280,8 @@
 		(uuid "99c0d3e3-d2b5-4a43-be0b-b6f7ed818ef3")
 	)
 	(fp_line
-		(start 9.525 9.525)
-		(end 9.525 -9.525)
+		(start 9.5 -9.5)
+		(end 9.5 9.5)
 		(stroke
 			(width 0.15)
 			(type solid)
