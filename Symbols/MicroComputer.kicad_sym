@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RP2040:RaspberryPi_Pico"
+		(property "Footprint" "MicroComputer:RaspberryPi_Pico"
 			(at 0 -28.956 0)
 			(effects
 				(font
@@ -804,7 +804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RP2040:Waveshare_RP2040-Zero"
+		(property "Footprint" "MicroComputer:Waveshare_RP2040-Zero"
 			(at 0 -24.13 0)
 			(effects
 				(font
