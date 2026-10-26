@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "MicroComputer")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MicroComputer.kicad_sym")(options "")(descr ""))
+  (lib (name "MicroController")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MicroController.kicad_sym")(options "")(descr ""))
 )

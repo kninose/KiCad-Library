@@ -1,7 +1,7 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Key_Switch")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Key_Switch.pretty")(options "")(descr ""))
-  (lib (name "Tact_Switch")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Tact_Switch.pretty")(options "")(descr ""))
-  (lib (name "Screw_Hole")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Screw_Hole.pretty")(options "")(descr ""))
-  (lib (name "MicroComputer")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MicroComputer.pretty")(options "")(descr ""))
+  (lib (name "KeySwitch")(type "KiCad")(uri "${KIPRJMOD}/Footprints/KeySwitch.pretty")(options "")(descr ""))
+  (lib (name "MicroController")(type "KiCad")(uri "${KIPRJMOD}/Footprints/MicroController.pretty")(options "")(descr ""))
+  (lib (name "ScrewHole")(type "KiCad")(uri "${KIPRJMOD}/Footprints/ScrewHole.pretty")(options "")(descr ""))
+  (lib (name "TactSwitch")(type "KiCad")(uri "${KIPRJMOD}/Footprints/TactSwitch.pretty")(options "")(descr ""))
 )
